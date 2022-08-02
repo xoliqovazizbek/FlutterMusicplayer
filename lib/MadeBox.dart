@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:untitled3/MadeItem.dart';
 
 class MadeBox extends StatefulWidget {
   const MadeBox({Key? key}) : super(key: key);
